@@ -1,0 +1,187 @@
+{
+    "settings": {
+        "glyphicons" : true
+    },
+    "firstname": "Vaibhav",
+    "familyname": "Shah",
+    "linkedin_id": "shahnvaibhav",
+    "github_id": "shahnvaibhav",
+    "bio_data": {
+        "email": "shahnvaibhav at gmail.com",
+        "phone": "+1 (213) 268-1582",
+        "website": "shahnvaibhav.github.io",
+        "stars": ["Perl", "Ruby", "Git", "MySQL" ],
+	"summary": {
+		"points":[
+		"Software Engineer with 8 years of professional experience in various areas which includes developing software, managing projects, leading a team, supporting applications and problem solving",
+		"I have helped domainsponsor.com (now part of Rookmedia.net) develop high performance, high traffic web-based products. Experienced working in diverse and team oriented environments, practicing full agile software life cycles (Scrum)",
+        "I would like an opportunity to work with talented people, use the right technology to solve modern problems."
+		]
+	},
+         "skills": {
+            "details": [
+                {
+                    "type": "Programming Languages",
+                    "items": [
+                        "Perl",
+                        "Ruby",
+                        "Java",
+                        "Javascript",
+                        "C"
+                    ]
+                },
+                {
+                    "type": "Web Frameworks",
+                    "items": [
+                        "Catalyst",
+                        "Rails",
+                        "Apache",
+                        "Nginx"
+                    ]
+                },
+                {
+                    "type": "Relational Databases",
+                    "items": [
+                        "MySQL",
+                        "IBM Netezza",
+                        "Oracle"
+                    ]
+                },
+                { 
+                    "type": "NoSQL & BigData",
+                    "items": [
+                        "Berkeley DB",
+                        "Redis",
+                        "CouchDB",
+                        "Hadoop",
+                        "Hive"
+                    ]
+                },
+                { 
+                    "type": "Configuration & Deploy",
+                    "items": [
+                        "Etch",
+                        "RPM",
+                        "YUM",
+                        "Pinto",
+                        "Jenkins"
+                    ]
+                },
+                                { 
+                    "type": "Tracking & Monitoring",
+                    "items": [
+                        "Jira",
+                        "Confluence",
+                        "Git",
+                        "Perforce",
+                        "Nagios",
+                        "Cricket Graphs",
+                        "Gomez"
+                    ]
+                }
+
+
+            ]
+        },
+        "education": {
+	    "show_gpa": false,
+            "schools": [
+                {
+                    "degree": "Master of Science",
+                    "major": "Computer Science",
+                    "institution": "University of Southern California",
+                    "graduation_year": 2005
+                },
+                {
+                    "degree": "Bachelor of Technology",
+                    "major": "Information Technology",
+                    "institution": "University Of Mumbai",
+                    "graduation_year": 2003
+                }
+            ]
+        },
+
+        "experience": {
+            "items": [
+                {
+                    "title": "Senior Software Engineer",
+                    "organisation": "Rookmedia.net",
+		            "location": "Los Angeles, CA",
+                    "from": "April 2014",
+                    "to": "current",
+                    "details": [
+                        "Responsible for developing and maintaining the technology stack behind pubman.domainsponsor.com and trafficmatch.com. Developed customer facing XML API that interfaces with iphone and android mobile app - Urban Airship for mobile notifications, Flurry Analytics."
+                    ],
+                    "technology_used": {
+                        "tools": [
+                            "Perl",
+                            "Catalyst",
+                            "Apache",
+                            "MySQL",
+                            "IBM Netezza",
+                            "XMLRPC",
+                            "RoR",
+                            "Nginx"
+                        ]
+                    }
+                },
+                {
+                    "title": "Senior Software Engineer",
+                    "organisation": "Oversee.net",
+                    "location": "Los Angeles, CA",
+                    "from": "April 2008",
+                    "to": "April 2014",
+                    "details": [
+                        "Rehaul Oversee.net’s Domain parking platform. The old system was monolithic and inflexible. The new overhaul took a modular and scalable approach, allowing the business to test more web designs in production. Designed and developed a linearly scalable log(300 million hits/day) rotation and processing system consisting of 6 nodes."
+                    ],
+                    "technology_used": {
+                        "tools": [
+                            "POE, Perl XS",
+                            "Berkeley DB",
+                            "MySQL",
+                            "Protocol Buffers"
+                        ]
+                    }
+                },
+                                {
+                    "title": "Site Reliability Engineer",
+                    "organisation": "Oversee.net",
+                    "location": "Los Angeles, CA",
+                    "from": "Aug. 2005",
+                    "to": "April 2008",
+                    "details": [
+                        "I was responsible for managing and resolving production issues (around 100 tickets per week and in a team of 3). Wrote various tools to reduce the workload by eliminating routine and repetitive tasks, define and maintain system SLA, file bugs and submit code patches to developers. This improved our efficiency in our day-to-day operations. Worked with crossfunctional teams – product, QA/release, software developers and operations"
+                    ],
+                    "technology_used": {
+                        "tools": [
+                            "Perl",
+                            "Nagios",
+                            "Cricket Graphs",
+                            "Gomez"
+                        ]
+                    }
+                },
+                {
+                    "title": "Software Engineer Intern",
+                    "organisation": "Sophoi Inc.(now part of Oracle Corp.)",
+		    "location": "Los Angeles, CA",
+                    "from": "Jan. 2005",
+                    "to": "June. 2005",
+                    "details": [
+                        "Developed and tested company's intellectual property and rights management web based application. Start up environment."
+                        ],
+                    "technology_used": {
+                        "tools": [
+                            "Java",
+                            "Struts",
+                            "BEA Weblogic",
+                            "Oracle",
+                            "J2EE",
+                            "JSP"
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}
