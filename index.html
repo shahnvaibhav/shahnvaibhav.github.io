@@ -30,4 +30,11 @@
 <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
 <script>
 		$("#page-container").load("page.html")
+		$("#header").load("header.html")
+		$("#header").hover(function() {
+			$("#link-linkedin").attr("src","public/images/link-linkedin-64.png");
+				}, function() {
+			$("#link-linkedin").attr("src","public/images/link-linkedin-64-gray.png");
+		});
+
 </script>
